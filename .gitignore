@@ -1,0 +1,9 @@
+*.rcgu.o
+*.timestamp
+*.d
+*.bin
+*.o
+*.fingerprint/
+*/debug/*
+*debug
+
